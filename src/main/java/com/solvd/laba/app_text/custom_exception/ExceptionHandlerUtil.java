@@ -23,7 +23,6 @@ public class ExceptionHandlerUtil {
                 wasException = false;
             } catch (Exception e) {
                 log.error(e.getMessage());
-                wasException = true;
             }
         }
         return str;
