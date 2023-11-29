@@ -1,4 +1,4 @@
-package com.solvd.laba.appText.customException;
+package com.solvd.laba.app_text.custom_exception;
 
 import lombok.experimental.UtilityClass;
 import lombok.extern.slf4j.Slf4j;

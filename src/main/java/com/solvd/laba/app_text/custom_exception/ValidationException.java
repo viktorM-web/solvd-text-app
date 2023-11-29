@@ -1,6 +1,6 @@
-package com.solvd.laba.appText.customException;
+package com.solvd.laba.app_text.custom_exception;
 
-public class ValidationException extends RuntimeException {
+public class ValidationException extends Exception {
 
     @Override
     public String getMessage() {

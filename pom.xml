@@ -73,7 +73,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                com.solvd.laba.appText
+                                com.solvd.laba.app-text
                             </mainClass>
                         </manifest>
                     </archive>
