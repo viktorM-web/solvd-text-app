@@ -18,7 +18,6 @@ public class Session implements AutoCloseable {
     Scanner scanner;
 
     public Session() {
-        log.info("Hello");
         this.scanner = new Scanner(System.in);
     }
 
